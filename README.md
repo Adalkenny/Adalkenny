@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adalkenny
-- 👀 I’m interested in Django,React and ML(Machine Learning), Java/Android and Rust
-- 🌱 I’m currently learning React and Docker, and Golang/Go
+- 👀 I’m interested in Spring Boot,Angular/UX Design and ML(Machine Learning), Java/Android and Rust
+- 🌱 I’m currently learning Spring Boot,Angular/UX Design and Docker, and Golang/Go
 - 💞️ I’m looking to collaborate on ML open source projects
 - 📫 How to reach me --- adalbertomascarenhas1@gmail.com
 
